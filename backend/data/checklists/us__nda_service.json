@@ -1,0 +1,15 @@
+{
+  "_note": "DRAFT ONLY — not legally reviewed. See Section 7, item 1. Scoped to NDA/Service only per Section 2 (CUAD has no residential lease coverage).",
+  "required_clause_types": [
+    "Confidentiality",
+    "Term & Termination",
+    "Scope of Services",
+    "Payment Terms",
+    "Indemnification",
+    "Limitation of Liability",
+    "Governing Law (state-specific)",
+    "Dispute Resolution / Arbitration",
+    "Return/Destruction of Materials on Termination",
+    "Non-Solicitation"
+  ]
+}

@@ -1,0 +1,778 @@
+[
+  {
+    "node_id": "uk:SGSA:1",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "1",
+    "title": "The contracts concerned.",
+    "text": "1 The contracts concerned.—(1) In this Act [F1in its application to England and Wales and Northern Ireland]a\n“[F2relevant contract for the transfer of goods]” means a contract under which one\nperson transfers or agrees to transfer to another the property in goods, other than an\nexcepted contract[F3, and other than a contract to which Chapter 2 of Part 1 of the\nConsumer Rights Act 2015 applies.]\n(2) For the purposes of this section an excepted contract means any of the following:—\n(a)\na contract of sale of goods;\n(b)\na hire-purchase agreement;\n(c)\n(d)\na transfer or agreement to transfer which is made by deed and for which there\nis no consideration other than the presumed consideration imported by the\ndeed;\n(e)\na contract intended to operate by way of mortgage, pledge, charge or other\nsecurity.\n(3) For the purposes of this Act [F1in its application to England and Wales and Northern\nIreland]a contract is a [F2relevant contract for the transfer of goods] whether or not\nservices are also provided or to be provided under the contract, and (subject to\nsubsection (2) above) whatever is the nature of the consideration for the transfer or\nagreement to transfer.",
+    "text_clean": "1 The contracts concerned.—(1) In this Act in its application to England and Wales and Northern Irelanda\n“relevant contract for the transfer of goods” means a contract under which one\nperson transfers or agrees to transfer to another the property in goods, other than an\nexcepted contract, and other than a contract to which Chapter 2 of Part 1 of the\nConsumer Rights Act 2015 applies.\n(2) For the purposes of this section an excepted contract means any of the following:—\n(a)\na contract of sale of goods;\n(b)\na hire-purchase agreement;\n(c)\n(d)\na transfer or agreement to transfer which is made by deed and for which there\nis no consideration other than the presumed consideration imported by the\ndeed;\n(e)\na contract intended to operate by way of mortgage, pledge, charge or other\nsecurity.\n(3) For the purposes of this Act in its application to England and Wales and Northern\nIrelanda contract is a relevant contract for the transfer of goods whether or not\nservices are also provided or to be provided under the contract, and (subject to\nsubsection (2) above) whatever is the nature of the consideration for the transfer or\nagreement to transfer.",
+    "pages": [
+      1,
+      2
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F1",
+      "Words in s. 1(1)(3) inserted (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(2) (with s. 8(3))",
+      "F2",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(a); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F3",
+      "Words in s. 1(1) inserted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para. 39;",
+      "S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F4",
+      "S. 1(2)(c) omitted (E.W.) (6.4.2005) by virtue of The Regulatory Reform (Trading Stamps) Order",
+      "2005 (S.I. 2005/871) {art. 5(a)}; and repealed (N.I.) (15.11.2005) by The Law Reform (Miscellaneous"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:2",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "2",
+    "title": "Implied terms about title, etc.",
+    "text": "2 Implied terms about title, etc.—(1) In a [F2relevant contract for the transfer of goods], other than one to which\nsubsection (3) below applies, there is an implied condition on the part of the transferor\nthat in the case of a transfer of the property in the goods he has a right to transfer the\nproperty and in the case of an agreement to transfer the property in the goods he will\nhave such a right at the time when the property is to be transferred.\n(2) In a [F2relevant contract for the transfer of goods], other than one to which\nsubsection (3) below applies, there is also an implied warranty that—\n(a)\nthe goods are free, and will remain free until the time when the property is\nto be transferred, from any charge or encumbrance not disclosed or known to\nthe transferee before the contract is made, and\n(b)\nthe transferee will enjoy quiet possession of the goods except so far as it may\nbe disturbed by the owner or other person entitled to the benefit of any charge\nor encumbrance so disclosed or known.\n(3) This subsection applies to a [F2relevant contract for the transfer of goods] in the case\nof which there appears from the contract or is to be inferred from its circumstances\nan intention that the transferor should transfer only such title as he or a third person\nmay have.\n(4) In a contract to which subsection (3) above applies there is an implied warranty that\nall charges or encumbrances known to the transferor and not known to the transferee\nhave been disclosed to the transferee before the contract is made.\n(5) In a contract to which subsection (3) above applies there is also an implied warranty\nthat none of the following will disturb the transferee’s quiet possession of the goods,\nnamely—\n(a)\nthe transferor;\n(b)\nin a case where the parties to the contract intend that the transferor should\ntransfer only such title as a third person may have, that person;\n(c)\nanyone claiming through or under the transferor or that third person otherwise\nthan under a charge or encumbrance disclosed or known to the transferee\nbefore the contract is made.",
+    "text_clean": "2 Implied terms about title, etc.—(1) In a relevant contract for the transfer of goods, other than one to which\nsubsection (3) below applies, there is an implied condition on the part of the transferor\nthat in the case of a transfer of the property in the goods he has a right to transfer the\nproperty and in the case of an agreement to transfer the property in the goods he will\nhave such a right at the time when the property is to be transferred.\n(2) In a relevant contract for the transfer of goods, other than one to which\nsubsection (3) below applies, there is also an implied warranty that—\n(a)\nthe goods are free, and will remain free until the time when the property is\nto be transferred, from any charge or encumbrance not disclosed or known to\nthe transferee before the contract is made, and\n(b)\nthe transferee will enjoy quiet possession of the goods except so far as it may\nbe disturbed by the owner or other person entitled to the benefit of any charge\nor encumbrance so disclosed or known.\n(3) This subsection applies to a relevant contract for the transfer of goods in the case\nof which there appears from the contract or is to be inferred from its circumstances\nan intention that the transferor should transfer only such title as he or a third person\nmay have.\n(4) In a contract to which subsection (3) above applies there is an implied warranty that\nall charges or encumbrances known to the transferor and not known to the transferee\nhave been disclosed to the transferee before the contract is made.\n(5) In a contract to which subsection (3) above applies there is also an implied warranty\nthat none of the following will disturb the transferee’s quiet possession of the goods,\nnamely—\n(a)\nthe transferor;\n(b)\nin a case where the parties to the contract intend that the transferor should\ntransfer only such title as a third person may have, that person;\n(c)\nanyone claiming through or under the transferor or that third person otherwise\nthan under a charge or encumbrance disclosed or known to the transferee\nbefore the contract is made.",
+    "pages": [
+      2,
+      3
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F2",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(a); S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:3",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "3",
+    "title": "Implied terms where transfer is by description.",
+    "text": "3 Implied terms where transfer is by description.—(1) This section applies where, under a [F2relevant contract for the transfer of goods], the\ntransferor transfers or agrees to transfer the property in the goods by description.\n(2) In such a case there is an implied condition that the goods will correspond with the\ndescription.\n(3) If the transferor transfers or agrees to transfer the property in the goods by sample as\nwell as by description it is not sufficient that the bulk of the goods corresponds with\nthe sample if the goods do not also correspond with the description.\n(4) A contract is not prevented from falling within subsection (1) above by reason only\nthat, being exposed for supply, the goods are selected by the transferee.",
+    "text_clean": "3 Implied terms where transfer is by description.—(1) This section applies where, under a relevant contract for the transfer of goods, the\ntransferor transfers or agrees to transfer the property in the goods by description.\n(2) In such a case there is an implied condition that the goods will correspond with the\ndescription.\n(3) If the transferor transfers or agrees to transfer the property in the goods by sample as\nwell as by description it is not sufficient that the bulk of the goods corresponds with\nthe sample if the goods do not also correspond with the description.\n(4) A contract is not prevented from falling within subsection (1) above by reason only\nthat, being exposed for supply, the goods are selected by the transferee.",
+    "pages": [
+      3,
+      3
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F2",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(a); S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:4",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "4",
+    "title": "Implied terms about quality or fitness.",
+    "text": "4 Implied terms about quality or fitness.—(1) Except as provided by this section and section 5 below and subject to the provisions\nof any other enactment, there is no implied condition or warranty about the quality or\nfitness for any particular purpose of goods supplied under a [F2relevant contract for\nthe transfer of goods].\n[F5(2) Where, under such a contract, the transferor transfers the property in goods in the\ncourse of a business, there is an implied condition that the goods supplied under the\ncontract are of satisfactory quality.\n(2A) For the purposes of this section and section 5 below, goods are of satisfactory quality\nif they meet the standard that a reasonable person would regard as satisfactory, taking\naccount of any description of the goods, the price (if relevant) and all the other relevant\ncircumstances.\n(3) The condition implied by subsection (2) above does not extend to any matter making\nthe quality of goods unsatisfactory—\n(a)\nwhich is specifically drawn to the transferee’s attention before the contract\nis made,\n(b)\nwhere the transferee examines the goods before the contract is made, which\nthat examination ought to reveal, or\n(c)\nwhere the property in the goods is transferred by reference to a sample, which\nwould have been apparent on a reasonable examination of the sample.]\n(4) Subsection (5) below applies where, under a [F2relevant contract for the transfer of\ngoods], the transferor transfers the property in goods in the course of a business and\nthe transferee, expressly or by implication, makes known—\n(a)\nto the transferor, or\n(b)\nwhere the consideration or part of the consideration for the transfer is a sum\npayable by instalments and the goods were previously sold by a credit-broker\nto the transferor, to that credit-broker,\nany particular purpose for which the goods are being acquired.\n(5) In that case there is (subject to subsection (6) below) an implied condition that the\ngoods supplied under the contract are reasonably fit for that purpose, whether or not\nthat is a purpose for which such goods are commonly supplied.\n(6) Subsection (5) above does not apply where the circumstances show that the transferee\ndoes not rely, or that it is unreasonable for him to rely, on the skill or judgment of the\ntransferor or credit-broker.\n(7) An implied condition or warranty about quality or fitness for a particular purpose may\nbe annexed by usage to a [F2relevant contract for the transfer of goods].\n(8) The preceding provisions of this section apply to a transfer by a person who in the\ncourse of a business is acting as agent for another as they apply to a transfer by a\nprincipal in the course of a business, except where that other is not transferring in the\ncourse of a business and either the transferee knows that fact or reasonable steps are\ntaken to bring it to the transferee’s notice before the contract concerned is made.",
+    "text_clean": "4 Implied terms about quality or fitness.—(1) Except as provided by this section and section 5 below and subject to the provisions\nof any other enactment, there is no implied condition or warranty about the quality or\nfitness for any particular purpose of goods supplied under a relevant contract for\nthe transfer of goods.\n(2) Where, under such a contract, the transferor transfers the property in goods in the\ncourse of a business, there is an implied condition that the goods supplied under the\ncontract are of satisfactory quality.\n(2A) For the purposes of this section and section 5 below, goods are of satisfactory quality\nif they meet the standard that a reasonable person would regard as satisfactory, taking\naccount of any description of the goods, the price (if relevant) and all the other relevant\ncircumstances.\n(3) The condition implied by subsection (2) above does not extend to any matter making\nthe quality of goods unsatisfactory—\n(a)\nwhich is specifically drawn to the transferee’s attention before the contract\nis made,\n(b)\nwhere the transferee examines the goods before the contract is made, which\nthat examination ought to reveal, or\n(c)\nwhere the property in the goods is transferred by reference to a sample, which\nwould have been apparent on a reasonable examination of the sample.\n(4) Subsection (5) below applies where, under a relevant contract for the transfer of\ngoods, the transferor transfers the property in goods in the course of a business and\nthe transferee, expressly or by implication, makes known—\n(a)\nto the transferor, or\n(b)\nwhere the consideration or part of the consideration for the transfer is a sum\npayable by instalments and the goods were previously sold by a credit-broker\nto the transferor, to that credit-broker,\nany particular purpose for which the goods are being acquired.\n(5) In that case there is (subject to subsection (6) below) an implied condition that the\ngoods supplied under the contract are reasonably fit for that purpose, whether or not\nthat is a purpose for which such goods are commonly supplied.\n(6) Subsection (5) above does not apply where the circumstances show that the transferee\ndoes not rely, or that it is unreasonable for him to rely, on the skill or judgment of the\ntransferor or credit-broker.\n(7) An implied condition or warranty about quality or fitness for a particular purpose may\nbe annexed by usage to a relevant contract for the transfer of goods.\n(8) The preceding provisions of this section apply to a transfer by a person who in the\ncourse of a business is acting as agent for another as they apply to a transfer by a\nprincipal in the course of a business, except where that other is not transferring in the\ncourse of a business and either the transferee knows that fact or reasonable steps are\ntaken to bring it to the transferee’s notice before the contract concerned is made.",
+    "pages": [
+      3,
+      4
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F2",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(a); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F5",
+      "S. 4(2)(2A)(3) substituted (3.1.1995) for s. 4(2)(3) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(3) (with s.",
+      "8(3))",
+      "F6",
+      "S. 4(2B)-(2D) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1",
+      "para. 40; S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F7",
+      "S. 4(9) repealed (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(3), Sch. 3 (with s. 8(3))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:5",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "5",
+    "title": "Implied terms where transfer is by sample.",
+    "text": "5 Implied terms where transfer is by sample.—(1) This section applies where, under a [F2relevant contract for the transfer of goods], the\ntransferor transfers or agrees to transfer the property in the goods by reference to a\nsample.\n(2) In such a case there is an implied condition—\n(a)\nthat the bulk will correspond with the sample in quality; and\n(b)\nthat the transferee will have a reasonable opportunity of comparing the bulk\nwith the sample; and\n(c)\nthat the goods will be free from any defect, [F8making their quality\nunsatisfactory], which would not be apparent on reasonable examination of\nthe sample.\n(4) For the purposes of this section a transferor transfers or agrees to transfer the property\nin goods by reference to a sample where there is an express or implied term to that\neffect in the contract concerned.",
+    "text_clean": "5 Implied terms where transfer is by sample.—(1) This section applies where, under a relevant contract for the transfer of goods, the\ntransferor transfers or agrees to transfer the property in the goods by reference to a\nsample.\n(2) In such a case there is an implied condition—\n(a)\nthat the bulk will correspond with the sample in quality; and\n(b)\nthat the transferee will have a reasonable opportunity of comparing the bulk\nwith the sample; and\n(c)\nthat the goods will be free from any defect, making their quality\nunsatisfactory, which would not be apparent on reasonable examination of\nthe sample.\n(4) For the purposes of this section a transferor transfers or agrees to transfer the property\nin goods by reference to a sample where there is an express or implied term to that\neffect in the contract concerned.",
+    "pages": [
+      4,
+      5
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F2",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(a); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F8",
+      "Words in s. 5(2)(c) substituted (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(4)(a) (with s. 8(3))",
+      "F9",
+      "S. 5(3) repealed (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(4)(b), Sch.3 (with s. 8(3))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:5A",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "5A",
+    "title": "Modification of remedies for breach of statutory condition in non-consumer cases.",
+    "text": "5A Modification of remedies for breach of statutory condition in non-consumer cases.—(1) Where in the case of a [F2relevant contract for the transfer of goods]—\n(a)\nthe transferee would, apart from this subsection, have the right to treat the\ncontract as repudiated by reason of a breach on the part of the transferor of a\nterm implied by section 3, 4 or 5(2)(a) or (c) above, but\n(b)\nthe breach is so slight that it would be unreasonable for him to do so,\nbreach of warranty.\n(2) This section applies unless a contrary intention appears in, or is to be implied from,\nthe contract.\n(3) It is for the transferor to show that a breach fell within subsection (1)(b) above.]\nContracts for the hire of goods",
+    "text_clean": "5A Modification of remedies for breach of statutory condition in non-consumer cases.—(1) Where in the case of a relevant contract for the transfer of goods—\n(a)\nthe transferee would, apart from this subsection, have the right to treat the\ncontract as repudiated by reason of a breach on the part of the transferor of a\nterm implied by section 3, 4 or 5(2)(a) or (c) above, but\n(b)\nthe breach is so slight that it would be unreasonable for him to do so,\nbreach of warranty.\n(2) This section applies unless a contrary intention appears in, or is to be implied from,\nthe contract.\n(3) It is for the transferor to show that a breach fell within subsection (1)(b) above.\nContracts for the hire of goods",
+    "pages": [
+      5,
+      5
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F2",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(a); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F10",
+      "S. 5A inserted (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(5) (with s. 8(3))",
+      "F11",
+      "Words in s. 5A(1) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch.",
+      "1 para. 41; S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:6",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "6",
+    "title": "The contracts concerned.",
+    "text": "6 The contracts concerned.—(1) In this Act [F12in its application to England and Wales and Northern Ireland] a\n“[F13relevant contract for the hire of goods]” means a contract under which one person\nbails or agrees to bail goods to another by way of hire, other than [F14 a hire-purchase\nagreement][F15, and other than a contract to which Chapter 2 of Part 1 of the Consumer\nRights Act 2015 applies.]\n(2) F16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n(3) For the purposes of this Act [F12in its application to England and Wales and Northern\nIreland]a contract is a [F13relevant contract for the hire of goods] whether or not\nservices are also provided or to be provided under the contract, and F17... whatever is\nthe nature of the consideration for the bailment or agreement to bail by way of hire.",
+    "text_clean": "6 The contracts concerned.—(1) In this Act in its application to England and Wales and Northern Ireland a\n“relevant contract for the hire of goods” means a contract under which one person\nbails or agrees to bail goods to another by way of hire, other than  a hire-purchase\nagreement, and other than a contract to which Chapter 2 of Part 1 of the Consumer\nRights Act 2015 applies.\n(2) [text omitted]\n(3) For the purposes of this Act in its application to England and Wales and Northern\nIrelanda contract is a relevant contract for the hire of goods whether or not\nservices are also provided or to be provided under the contract, and ... whatever is\nthe nature of the consideration for the bailment or agreement to bail by way of hire.",
+    "pages": [
+      5,
+      6
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F12",
+      "Words in s. 6(1)(3) inserted (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(6) (with s. 8(3))",
+      "F13",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(b); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F14",
+      "Words in s. 6(1) substituted (E.W.) (6.4.2005) by The Regulatory Reform (Trading Stamps)",
+      "Order 2005 (S.I. 2005/871) {art. 5(b)(i)}; (N.I.) (15.11.2005) by The Law Reform (Miscellaneous",
+      "Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452 (N.I. 7)), arts. 1(2), 21(2)(b)(i); S.R.",
+      "2005/494, art. 2(1)(b)",
+      "F15"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:7",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "7",
+    "title": "Implied terms about right to transfer possession, etc.",
+    "text": "7 Implied terms about right to transfer possession, etc.—(1) In a [F13relevant contract for the hire of goods] there is an implied condition on the part\nof the bailor that in the case of a bailment he has a right to transfer possession of the\ngoods by way of hire for the period of the bailment and in the case of an agreement to\nbail he will have such a right at the time of the bailment.\n(2) In a [F13relevant contract for the hire of goods] there is also an implied warranty that\nthe bailee will enjoy quiet possession of the goods for the period of the bailment except\nso far as the possession may be disturbed by the owner or other person entitled to\nthe benefit of any charge or encumbrance disclosed or known to the bailee before the\ncontract is made.\n(3) The preceding provisions of this section do not affect the right of the bailor to repossess\nthe goods under an express or implied term of the contract.",
+    "text_clean": "7 Implied terms about right to transfer possession, etc.—(1) In a relevant contract for the hire of goods there is an implied condition on the part\nof the bailor that in the case of a bailment he has a right to transfer possession of the\ngoods by way of hire for the period of the bailment and in the case of an agreement to\nbail he will have such a right at the time of the bailment.\n(2) In a relevant contract for the hire of goods there is also an implied warranty that\nthe bailee will enjoy quiet possession of the goods for the period of the bailment except\nso far as the possession may be disturbed by the owner or other person entitled to\nthe benefit of any charge or encumbrance disclosed or known to the bailee before the\ncontract is made.\n(3) The preceding provisions of this section do not affect the right of the bailor to repossess\nthe goods under an express or implied term of the contract.",
+    "pages": [
+      6,
+      6
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F13",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(b); S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:8",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "8",
+    "title": "Implied terms where hire is by description.",
+    "text": "8 Implied terms where hire is by description.—(1) This section applies where, under a [F13relevant contract for the hire of goods], the\nbailor bails or agrees to bail the goods by description.\n(2) In such a case there is an implied condition that the goods will correspond with the\ndescription.\n(3) If under the contract the bailor bails or agrees to bail the goods by reference to a sample\nas well as a description it is not sufficient that the bulk of the goods corresponds with\nthe sample if the goods do not also correspond with the description.\n(4) A contract is not prevented from falling within subsection (1) above by reason only\nthat, being exposed for supply, the goods are selected by the bailee.",
+    "text_clean": "8 Implied terms where hire is by description.—(1) This section applies where, under a relevant contract for the hire of goods, the\nbailor bails or agrees to bail the goods by description.\n(2) In such a case there is an implied condition that the goods will correspond with the\ndescription.\n(3) If under the contract the bailor bails or agrees to bail the goods by reference to a sample\nas well as a description it is not sufficient that the bulk of the goods corresponds with\nthe sample if the goods do not also correspond with the description.\n(4) A contract is not prevented from falling within subsection (1) above by reason only\nthat, being exposed for supply, the goods are selected by the bailee.",
+    "pages": [
+      7,
+      7
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F13",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(b); S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:9",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "9",
+    "title": "Implied terms about quality or fitness.",
+    "text": "9 Implied terms about quality or fitness.—(1) Except as provided by this section and section 10 below and subject to the provisions\nof any other enactment, there is no implied condition or warranty about the quality\nor fitness for any particular purpose of goods bailed under a [F13relevant contract for\nthe hire of goods].\n[F18(2) Where, under such a contract, the bailor bails goods in the course of a business, there\nis an implied condition that the goods supplied under the contract are of satisfactory\nquality.\n(2A) For the purposes of this section and section 10 below, goods are of satisfactory quality\nif they meet the standard that a reasonable person would regard as satisfactory, taking\naccount of any description of the goods, the consideration for the bailment (if relevant)\nand all the other relevant circumstances.\n( 3 ) The condition implied by subsection (2) above does not extend to any matter making\nthe quality of goods unsatisfactory—\n(a)\nwhich is specifically drawn to the bailee’s attention before the contract is\nmade,\n(b)\nwhere the bailee examines the goods before the contract is made, which that\nexamination ought to reveal, or\n(c)\nwhere the goods are bailed by reference to a sample, which would have been\napparent on a reasonable examination of the sample.]\n(4) Subsection (5) below applies where, under a [F13relevant contract for the hire of goods],\nthe bailor bails goods in the course of a business and the bailee, expressly or by\nimplication, makes known—\n(a)\nto the bailor in the course of negotiations conducted by him in relation to the\nmaking of the contract, or\n(b)\nto a credit-broker in the course of negotiations conducted by that broker in\nrelation to goods sold by him to the bailor before forming the subject matter\nof the contract,\nany particular purpose for which the goods are being bailed.\n(5) In that case there is (subject to subsection (6) below) an implied condition that the\ngoods supplied under the contract are reasonably fit for that purpose, whether or not\nthat is a purpose for which such goods are commonly supplied.\n(6) Subsection (5) above does not apply where the circumstances show that the bailee\ndoes not rely, or that it is unreasonable for him to rely, on the skill or judgment of the\nbailor or credit-broker.\n(7) An implied condition or warranty about quality or fitness for a particular purpose may\nbe annexed by usage to a [F13relevant contract for the hire of goods].\n(8) The preceding provisions of this section apply to a bailment by a person who in the\ncourse of a business is acting as agent for another as they apply to a bailment by a\nprincipal in the course of a business, except where that other is not bailing in the course\nof a business and either the bailee knows that fact or reasonable steps are taken to\nbring it to the bailee’s notice before the contract concerned is made.",
+    "text_clean": "9 Implied terms about quality or fitness.—(1) Except as provided by this section and section 10 below and subject to the provisions\nof any other enactment, there is no implied condition or warranty about the quality\nor fitness for any particular purpose of goods bailed under a relevant contract for\nthe hire of goods.\n(2) Where, under such a contract, the bailor bails goods in the course of a business, there\nis an implied condition that the goods supplied under the contract are of satisfactory\nquality.\n(2A) For the purposes of this section and section 10 below, goods are of satisfactory quality\nif they meet the standard that a reasonable person would regard as satisfactory, taking\naccount of any description of the goods, the consideration for the bailment (if relevant)\nand all the other relevant circumstances.\n( 3 ) The condition implied by subsection (2) above does not extend to any matter making\nthe quality of goods unsatisfactory—\n(a)\nwhich is specifically drawn to the bailee’s attention before the contract is\nmade,\n(b)\nwhere the bailee examines the goods before the contract is made, which that\nexamination ought to reveal, or\n(c)\nwhere the goods are bailed by reference to a sample, which would have been\napparent on a reasonable examination of the sample.\n(4) Subsection (5) below applies where, under a relevant contract for the hire of goods,\nthe bailor bails goods in the course of a business and the bailee, expressly or by\nimplication, makes known—\n(a)\nto the bailor in the course of negotiations conducted by him in relation to the\nmaking of the contract, or\n(b)\nto a credit-broker in the course of negotiations conducted by that broker in\nrelation to goods sold by him to the bailor before forming the subject matter\nof the contract,\nany particular purpose for which the goods are being bailed.\n(5) In that case there is (subject to subsection (6) below) an implied condition that the\ngoods supplied under the contract are reasonably fit for that purpose, whether or not\nthat is a purpose for which such goods are commonly supplied.\n(6) Subsection (5) above does not apply where the circumstances show that the bailee\ndoes not rely, or that it is unreasonable for him to rely, on the skill or judgment of the\nbailor or credit-broker.\n(7) An implied condition or warranty about quality or fitness for a particular purpose may\nbe annexed by usage to a relevant contract for the hire of goods.\n(8) The preceding provisions of this section apply to a bailment by a person who in the\ncourse of a business is acting as agent for another as they apply to a bailment by a\nprincipal in the course of a business, except where that other is not bailing in the course\nof a business and either the bailee knows that fact or reasonable steps are taken to\nbring it to the bailee’s notice before the contract concerned is made.",
+    "pages": [
+      7,
+      8
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F13",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(b); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F18",
+      "S. 9(2)(2A)(3) substituted (3.1.1995) for s. 9(2)(3) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(7) (with s.",
+      "8(3))",
+      "F19",
+      "S. 9(2B)-(2D) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1",
+      "para. 43; S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F20",
+      "S. 9(9) repealed (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(7), Sch. 3 (with s. 8(3))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:10",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "10",
+    "title": "Implied terms where hire is by sample.",
+    "text": "10 Implied terms where hire is by sample.—(1) This section applies where, under a [F13relevant contract for the hire of goods], the\nbailor bails or agrees to bail the goods by reference to a sample.\n(2) In such a case there is an implied condition—\n(a)\nthat the bulk will correspond with the sample in quality; and\n(b)\nthat the bailee will have a reasonable opportunity of comparing the bulk with\nthe sample; and\n(c)\nthat the goods will be free from any defect, [F21making their quality\nunsatisfactory], which would not be apparent on reasonable examination of\nthe sample.\n(4) For the purposes of this section a bailor bails or agrees to bail goods by reference\nto a sample where there is an express or implied term to that effect in the contract\nconcerned.\n[F2310A Modification of remedies for breach of statutory condition in non-consumer\ncases.\n(1) Where in the case of a [F13relevant contract for the hire of goods]—\n(a)\nthe bailee would, apart from this subsection, have the right to treat the contract\nas repudiated by reason of a breach on the part of the bailor of a term implied\nby section 8, 9 or 10(2)(a) or (c) above, but\n(b)\nthe breach is so slight that it would be unreasonable for him to do so,\nbreach of warranty.\n(2) This section applies unless a contrary intention appears in, or is to be implied from,\nthe contract.\n(3) It is for the bailor to show that a breach fell within subsection (1)(b) above.]\nExclusion of implied terms, etc.",
+    "text_clean": "10 Implied terms where hire is by sample.—(1) This section applies where, under a relevant contract for the hire of goods, the\nbailor bails or agrees to bail the goods by reference to a sample.\n(2) In such a case there is an implied condition—\n(a)\nthat the bulk will correspond with the sample in quality; and\n(b)\nthat the bailee will have a reasonable opportunity of comparing the bulk with\nthe sample; and\n(c)\nthat the goods will be free from any defect, making their quality\nunsatisfactory, which would not be apparent on reasonable examination of\nthe sample.\n(4) For the purposes of this section a bailor bails or agrees to bail goods by reference\nto a sample where there is an express or implied term to that effect in the contract\nconcerned.\nA Modification of remedies for breach of statutory condition in non-consumer\ncases.\n(1) Where in the case of a relevant contract for the hire of goods—\n(a)\nthe bailee would, apart from this subsection, have the right to treat the contract\nas repudiated by reason of a breach on the part of the bailor of a term implied\nby section 8, 9 or 10(2)(a) or (c) above, but\n(b)\nthe breach is so slight that it would be unreasonable for him to do so,\nbreach of warranty.\n(2) This section applies unless a contrary intention appears in, or is to be implied from,\nthe contract.\n(3) It is for the bailor to show that a breach fell within subsection (1)(b) above.\nExclusion of implied terms, etc.",
+    "pages": [
+      8,
+      9
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F13",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(b); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F21",
+      "Words in s. 10(2)(c) substituted (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(8)(a) (with s. 8(3))",
+      "F22",
+      "S. 10(3) repealed (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6(8)(b), Sch. 3 (with s. 8(3))",
+      "F23",
+      "S. 10A inserted (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 2 para. 6 (9) (with s. 8(3))",
+      "F24",
+      "Words in s. 10A(1) omitted (1.10.2015) by virtue of Consumer Rights Act 2015 (c. 15), s. 100(5), Sch."
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:11",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "11",
+    "title": "Exclusion of implied terms, etc.",
+    "text": "11 Exclusion of implied terms, etc.—(1) Where a right, duty or liability would arise under a [F2relevant contract for the transfer\nof goods] or a [F13relevant contract for the hire of goods] by implication of law, it may\n(subject to subsection (2) below and the 1977 Act) be negatived or varied by express\nagreement, or by the course of dealing between the parties, or by such usage as binds\nboth parties to the contract.\n(2) An express condition or warranty does not negative a condition or warranty implied\nby the preceding provisions of this Act unless inconsistent with it.\n(3) Nothing in the preceding provisions of this Act prejudices the operation of any other\nenactment or any rule of law whereby any condition or warranty (other than one\nrelating to quality or fitness) is to be implied in a [F2relevant contract for the transfer\nof goods] or a [F13relevant contract for the hire of goods].\nSUPPLY OF GOODS AS RESPECTS SCOTLAND",
+    "text_clean": "11 Exclusion of implied terms, etc.—(1) Where a right, duty or liability would arise under a relevant contract for the transfer\nof goods or a relevant contract for the hire of goods by implication of law, it may\n(subject to subsection (2) below and the 1977 Act) be negatived or varied by express\nagreement, or by the course of dealing between the parties, or by such usage as binds\nboth parties to the contract.\n(2) An express condition or warranty does not negative a condition or warranty implied\nby the preceding provisions of this Act unless inconsistent with it.\n(3) Nothing in the preceding provisions of this Act prejudices the operation of any other\nenactment or any rule of law whereby any condition or warranty (other than one\nrelating to quality or fitness) is to be implied in a relevant contract for the transfer\nof goods or a relevant contract for the hire of goods.\nSUPPLY OF GOODS AS RESPECTS SCOTLAND",
+    "pages": [
+      9,
+      10
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F2",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(a); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F13",
+      "38(b); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F25",
+      "Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by 1994 c. 35, ss. 6, 8(2),",
+      "Sch. 1 para.1 (with s. 8(3))",
+      "F26",
+      "Sch. 1 para. 1 (with s. 8(3))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:11M",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "11M",
+    "title": "Introductory",
+    "text": "11M Introductory.—. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "text_clean": "11M Introductory.—[text omitted]",
+    "pages": [
+      19,
+      19
+    ],
+    "page_notes": [],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:11N",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "11N",
+    "title": "Repair or replacement of the goods",
+    "text": "11N Repair or replacement of the goods.—. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "text_clean": "11N Repair or replacement of the goods.—[text omitted]",
+    "pages": [
+      19,
+      19
+    ],
+    "page_notes": [],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:11P",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "11P",
+    "title": "Reduction of purchase price or rescission of contract",
+    "text": "11P Reduction of purchase price or rescission of contract.—. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "text_clean": "11P Reduction of purchase price or rescission of contract.—[text omitted]",
+    "pages": [
+      19,
+      19
+    ],
+    "page_notes": [],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:11Q",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "11Q",
+    "title": "Relation to other remedies etc.",
+    "text": "11Q Relation to other remedies etc.—. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "text_clean": "11Q Relation to other remedies etc.—[text omitted]",
+    "pages": [
+      19,
+      19
+    ],
+    "page_notes": [],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:11R",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "11R",
+    "title": "Powers of the court",
+    "text": "11R Powers of the court.—. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "text_clean": "11R Powers of the court.—[text omitted]",
+    "pages": [
+      19,
+      19
+    ],
+    "page_notes": [],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:11S",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "11S",
+    "title": "Conformity with the contract",
+    "text": "11S Conformity with the contract.—. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "text_clean": "11S Conformity with the contract.—[text omitted]",
+    "pages": [
+      19,
+      19
+    ],
+    "page_notes": [],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:12",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "12",
+    "title": "The contracts concerned.",
+    "text": "12 The contracts concerned.—(1) In this Act a “[F53relevant contract for the supply of a service]” means, subject to\nsubsection (2) below, a contract under which a person (“the supplier”) agrees to carry\nout a service[F54, other than a contract to which Chapter 4 of Part 1 of the Consumer\nRights Act 2015 applies.]\n(2) For the purposes of this Act, a contract of service or apprenticeship is not a [F53relevant\ncontract for the supply of a service].\n(3) Subject to subsection (2) above, a contract is a [F53relevant contract for the supply of\na service] for the purposes of this Act whether or not goods are also—\n(a)\ntransferred or to be transferred, or\n(b)\nbailed or to be bailed by way of hire,\nunder the contract, and whatever is the nature of the consideration for which the service\nis to be carried out.\n(4) The Secretary of State may by order provide that one or more of sections 13 to 15\nbelow shall not apply to services of a description specified in the order, and such an\norder may make different provision for different circumstances.\n(5) The power to make an order under subsection (4) above shall be exercisable by\nstatutory instrument subject to annulment in pursuance of a resolution of either House\nof Parliament.",
+    "text_clean": "12 The contracts concerned.—(1) In this Act a “relevant contract for the supply of a service” means, subject to\nsubsection (2) below, a contract under which a person (“the supplier”) agrees to carry\nout a service, other than a contract to which Chapter 4 of Part 1 of the Consumer\nRights Act 2015 applies.\n(2) For the purposes of this Act, a contract of service or apprenticeship is not a relevant\ncontract for the supply of a service.\n(3) Subject to subsection (2) above, a contract is a relevant contract for the supply of\na service for the purposes of this Act whether or not goods are also—\n(a)\ntransferred or to be transferred, or\n(b)\nbailed or to be bailed by way of hire,\nunder the contract, and whatever is the nature of the consideration for which the service\nis to be carried out.\n(4) The Secretary of State may by order provide that one or more of sections 13 to 15\nbelow shall not apply to services of a description specified in the order, and such an\norder may make different provision for different circumstances.\n(5) The power to make an order under subsection (4) above shall be exercisable by\nstatutory instrument subject to annulment in pursuance of a resolution of either House\nof Parliament.",
+    "pages": [
+      19,
+      20
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F53",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(c); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F54",
+      "Words in s. 12(1) inserted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "51; S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:13",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "13",
+    "title": "Implied term about care and skill.",
+    "text": "13 Implied term about care and skill.—In a [F53relevant contract for the supply of a service] where the supplier is acting in\nthe course of a business, there is an implied term that the supplier will carry out the\nservice with reasonable care and skill.",
+    "text_clean": "13 Implied term about care and skill.—In a relevant contract for the supply of a service where the supplier is acting in\nthe course of a business, there is an implied term that the supplier will carry out the\nservice with reasonable care and skill.",
+    "pages": [
+      20,
+      20
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F53",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(c); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "Modifications etc. (not altering text)",
+      "C1",
+      "S. 13 excluded by S.I. 1983/902, art. 2 and S.I. 1985/1, art. 2"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:14",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "14",
+    "title": "Implied term about time for performance.",
+    "text": "14 Implied term about time for performance.—(1) Where, under a [F53relevant contract for the supply of a service] by a supplier acting\nin the course of a business, the time for the service to be carried out is not fixed by\nthe contract, left to be fixed in a manner agreed by the contract or determined by the\ncourse of dealing between the parties, there is an implied term that the supplier will\ncarry out the service within a reasonable time.\n(2) What is a reasonable time is a question of fact.",
+    "text_clean": "14 Implied term about time for performance.—(1) Where, under a relevant contract for the supply of a service by a supplier acting\nin the course of a business, the time for the service to be carried out is not fixed by\nthe contract, left to be fixed in a manner agreed by the contract or determined by the\ncourse of dealing between the parties, there is an implied term that the supplier will\ncarry out the service within a reasonable time.\n(2) What is a reasonable time is a question of fact.",
+    "pages": [
+      20,
+      21
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F53",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(c); S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:15",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "15",
+    "title": "Implied term about consideration.",
+    "text": "15 Implied term about consideration.—(1) Where, under a [F53relevant contract for the supply of a service], the consideration for\nthe service is not determined by the contract, left to be determined in a manner agreed\nby the contract or determined by the course of dealing between the parties, there is an\nimplied term that the party contracting with the supplier will pay a reasonable charge.\n(2) What is a reasonable charge is a question of fact.",
+    "text_clean": "15 Implied term about consideration.—(1) Where, under a relevant contract for the supply of a service, the consideration for\nthe service is not determined by the contract, left to be determined in a manner agreed\nby the contract or determined by the course of dealing between the parties, there is an\nimplied term that the party contracting with the supplier will pay a reasonable charge.\n(2) What is a reasonable charge is a question of fact.",
+    "pages": [
+      21,
+      21
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F53",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(c); S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:16",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "16",
+    "title": "Exclusion of implied terms, etc.",
+    "text": "16 Exclusion of implied terms, etc.—(1) Where a right, duty or liability would arise under a [F53relevant contract for the supply\nof a service] by virtue of this Part of this Act, it may (subject to subsection (2) below\nand the 1977 Act) be negatived or varied by express agreement, or by the course of\ndealing between the parties, or by such usage as binds both parties to the contract.\n(2) An express term does not negative a term implied by this Part of this Act unless\ninconsistent with it.\n(3) Nothing in this Part of this Act prejudices—\n(a)\nany rule of law which imposes on the supplier a duty stricter than that imposed\nby section 13 or 14 above; or\n(b)\nsubject to paragraph (a) above, any rule of law whereby any term not\ninconsistent with this Part of this Act is to be implied in a [F53relevant contract\nfor the supply of a service].\n(4) This Part of this Act has effect subject to any other enactment which defines or restricts\nthe rights, duties or liabilities arising in connection with a service of any description.",
+    "text_clean": "16 Exclusion of implied terms, etc.—(1) Where a right, duty or liability would arise under a relevant contract for the supply\nof a service by virtue of this Part of this Act, it may (subject to subsection (2) below\nand the 1977 Act) be negatived or varied by express agreement, or by the course of\ndealing between the parties, or by such usage as binds both parties to the contract.\n(2) An express term does not negative a term implied by this Part of this Act unless\ninconsistent with it.\n(3) Nothing in this Part of this Act prejudices—\n(a)\nany rule of law which imposes on the supplier a duty stricter than that imposed\nby section 13 or 14 above; or\n(b)\nsubject to paragraph (a) above, any rule of law whereby any term not\ninconsistent with this Part of this Act is to be implied in a relevant contract\nfor the supply of a service.\n(4) This Part of this Act has effect subject to any other enactment which defines or restricts\nthe rights, duties or liabilities arising in connection with a service of any description.",
+    "pages": [
+      21,
+      21
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F53",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(c); S.I. 2015/1630, art. 3(g) (with art. 6(1))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:17",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "17",
+    "title": "Minor and consequential amendments.",
+    "text": "17 Minor and consequential amendments.—(2) The following subsection shall be inserted after section 7(3) of the 1977 Act :—\n“(3A) Liability for breach of obligations arising under section 2 of the Supply\nof Goods and Services Act 1982 (implied terms about title etc. in certain\ncontracts for the transfer of the property in goods) cannot be excluded or\nrestricted by reference to any such term.”\n(3) In consequence of subsection (2) above, in section 7(4) of the 1977 Act, after “cannot”\nthere shall be inserted “ (in a case to which subsection (3A) does not apply) ”.",
+    "text_clean": "17 Minor and consequential amendments.—(2) The following subsection shall be inserted after section 7(3) of the 1977 Act :—\n“(3A) Liability for breach of obligations arising under section 2 of the Supply\nof Goods and Services Act 1982 (implied terms about title etc. in certain\ncontracts for the transfer of the property in goods) cannot be excluded or\nrestricted by reference to any such term.”\n(3) In consequence of subsection (2) above, in section 7(4) of the 1977 Act, after “cannot”\nthere shall be inserted “ (in a case to which subsection (3A) does not apply) ”.",
+    "pages": [
+      22,
+      22
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F55",
+      "S. 17(1) repealed (3.1.1995) by 1994 c. 35, ss. 7, 8(2), Sch. 3 (with s. 8(3))",
+      "Modifications etc. (not altering text)",
+      "C2",
+      "The text of s. 17 is in the form in which it was originally enacted: it was not reproduced in Statutes in",
+      "Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991."
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:18",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "18",
+    "title": "Interpretation: general.",
+    "text": "18 Interpretation: general.—(1) In the preceding provisions of this Act and this section—\n“bailee”, in relation to a [F13relevant contract for the hire of goods] means\n(depending on the context) a person to whom the goods are bailed under the\ncontract, or a person to whom they are to be so bailed, or a person to whom\nthe rights under the contract of either of those persons have passed;\n“bailor”, in relation to a [F13relevant contract for the hire of goods], means\n(depending on the context) a person who bails the goods under the contract,\nor a person who agrees to do so, or a person to whom the duties under the\ncontract of either of those persons have passed;\n“business” includes profession and the activities of any government\ndepartment or local or public authority;\n“credit-broker” means a person acting in the course of a business of credit\nbrokerage carried on by him;\n“credit brokerage” means the effecting of introductions—\n(a) of individuals desiring to obtain credit to persons carrying on any\nbusiness so far as it relates to the provision of credit; or\n(b) of individuals desiring to obtain goods on hire to persons carrying on\na business which comprises or relates to the bailment [F56or as regards\nScotland the hire]of goods under a [F13relevant contract for the hire of\ngoods]; or\n(c) of individuals desiring to obtain credit, or to obtain goods on hire, to\nother credit-brokers;\n“enactment” means any legislation (including subordinate legislation) of\nthe United Kingdom or Northern Ireland;\n“goods” [F57includes all personal chattels, other than things in action and\nmoney, and as regards Scotland all corporeal moveables; and in particular\n“goods” includes] emblements, industrial growing crops, and things attached\nto or forming part of the land which are agreed to be severed before the transfer\n[F57bailment or hire]concerned or under the contract concerned F58. . .;\n“hire-purchase agreement” has the same meaning as in the 1974 Act;\nnot merely a special property;\n“transferee”, in relation to a [F2relevant contract for the transfer of goods],\nmeans (depending on the context) a person to whom the property in the goods\nis transferred under the contract, or a person to whom the property is to be\nso transferred, or a person to whom the rights under the contract of either of\nthose persons have passed;\n“transferor”, in relation to a [F2relevant contract for the transfer of goods],\nmeans (depending on the context) a person who transfers the property in the\ngoods under the contract, or a person who agrees to do so, or a person to whom\nthe duties under the contract of either of those persons have passed.\n(2) In subsection (1) above, in the definitions of bailee, bailor, transferee and transferor, a\nreference to rights or duties passing is to their passing by assignment [F64assignation],\noperation of law or otherwise.\n[F65(3) For the purposes of this Act, the quality of goods includes their state and condition and\nthe following (among others) are in appropriate cases aspects of the quality of goods—\n(a)\nfitness for all the purposes for which goods of the kind in question are\ncommonly supplied,\n(b)\nappearance and finish,\n(c)\nfreedom from minor defects,\n(d)\nsafety, and\n(e)\ndurability.",
+    "text_clean": "18 Interpretation: general.—(1) In the preceding provisions of this Act and this section—\n“bailee”, in relation to a relevant contract for the hire of goods means\n(depending on the context) a person to whom the goods are bailed under the\ncontract, or a person to whom they are to be so bailed, or a person to whom\nthe rights under the contract of either of those persons have passed;\n“bailor”, in relation to a relevant contract for the hire of goods, means\n(depending on the context) a person who bails the goods under the contract,\nor a person who agrees to do so, or a person to whom the duties under the\ncontract of either of those persons have passed;\n“business” includes profession and the activities of any government\ndepartment or local or public authority;\n“credit-broker” means a person acting in the course of a business of credit\nbrokerage carried on by him;\n“credit brokerage” means the effecting of introductions—\n(a) of individuals desiring to obtain credit to persons carrying on any\nbusiness so far as it relates to the provision of credit; or\n(b) of individuals desiring to obtain goods on hire to persons carrying on\na business which comprises or relates to the bailment or as regards\nScotland the hireof goods under a relevant contract for the hire of\ngoods; or\n(c) of individuals desiring to obtain credit, or to obtain goods on hire, to\nother credit-brokers;\n“enactment” means any legislation (including subordinate legislation) of\nthe United Kingdom or Northern Ireland;\n“goods” includes all personal chattels, other than things in action and\nmoney, and as regards Scotland all corporeal moveables; and in particular\n“goods” includes emblements, industrial growing crops, and things attached\nto or forming part of the land which are agreed to be severed before the transfer\nbailment or hireconcerned or under the contract concerned . . .;\n“hire-purchase agreement” has the same meaning as in the 1974 Act;\nnot merely a special property;\n“transferee”, in relation to a relevant contract for the transfer of goods,\nmeans (depending on the context) a person to whom the property in the goods\nis transferred under the contract, or a person to whom the property is to be\nso transferred, or a person to whom the rights under the contract of either of\nthose persons have passed;\n“transferor”, in relation to a relevant contract for the transfer of goods,\nmeans (depending on the context) a person who transfers the property in the\ngoods under the contract, or a person who agrees to do so, or a person to whom\nthe duties under the contract of either of those persons have passed.\n(2) In subsection (1) above, in the definitions of bailee, bailor, transferee and transferor, a\nreference to rights or duties passing is to their passing by assignment assignation,\noperation of law or otherwise.\n(3) For the purposes of this Act, the quality of goods includes their state and condition and\nthe following (among others) are in appropriate cases aspects of the quality of goods—\n(a)\nfitness for all the purposes for which goods of the kind in question are\ncommonly supplied,\n(b)\nappearance and finish,\n(c)\nfreedom from minor defects,\n(d)\nsafety, and\n(e)\ndurability.",
+    "pages": [
+      22,
+      24
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F2",
+      "Words in Act substituted (1.10.2015) by Consumer Rights Act 2015 (c. 15), s. 100(5), Sch. 1 para.",
+      "38(a); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F13",
+      "38(b); S.I. 2015/1630, art. 3(g) (with art. 6(1))",
+      "F56",
+      "Words in s. 18(1) in para. (b) of the definition of \"credit-brokerage\" inserted (3.1.1995) by 1994 c. 35,",
+      "ss. 6, 8(2), Sch. 1 para. 2(a) (with s. 8(3))",
+      "F57",
+      "Words in s. 18(1) in the definition of \"goods\" substituted (3.1.1995) by 1994 c. 35, ss. 6, 8(2), Sch. 1",
+      "para. 2(b)(i)(ii) (with s. 8(3))"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:19",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "19",
+    "title": "Interpretation: references to Acts.",
+    "text": "19 Interpretation: references to Acts.—In this Act—\n“the 1973 Act” means the M1Supply of Goods (Implied Terms) Act 1973;\n“the 1974 Act” means the M2Consumer Credit Act 1974;\n“the 1977 Act” means the M3Unfair Contract Terms Act 1977; and\n“the 1979 Act” means the M4Sale of Goods Act 1979.",
+    "text_clean": "19 Interpretation: references to Acts.—In this Act—\n“the 1973 Act” means the M1Supply of Goods (Implied Terms) Act 1973;\n“the 1974 Act” means the M2Consumer Credit Act 1974;\n“the 1977 Act” means the M3Unfair Contract Terms Act 1977; and\n“the 1979 Act” means the M4Sale of Goods Act 1979.",
+    "pages": [
+      24,
+      24
+    ],
+    "page_notes": [
+      "Marginal Citations",
+      "M1",
+      "1973 c. 13.",
+      "M2",
+      "1974 c. 39.",
+      "M3",
+      "1977 c. 50.",
+      "M4",
+      "1979 c. 54"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:20",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "section",
+    "section_id": "20",
+    "title": "Citation, transitional provisions, commencement and extent.",
+    "text": "20 Citation, transitional provisions, commencement and extent.—(1) This Act may be cited as the Supply of Goods and Services Act 1982.\n(2) The transitional provisions in the Schedule to this Act shall have effect.\n(3) Part I of this Act together with section 17 and so much of sections 18 and 19 above\nas relates to that Part shall not come into operation until 4th January 1983; and Part II\nof this Act together with so much of sections 18 and 19 above as relates to that Part\nshall not come into operation until such day as may be appointed by an order made\nby the Secretary of State.\n(4) The power to make an order under subsection (3) above shall be exercisable by\nstatutory instrument.\n(5) No provision of this Act applies to a contract made before the provision comes into\noperation.\n(6) This Act [F67except Part IA, which extends only to Scotland]extends to Northern\nIreland [F68and Parts I and II do not extend] to Scotland.",
+    "text_clean": "20 Citation, transitional provisions, commencement and extent.—(1) This Act may be cited as the Supply of Goods and Services Act 1982.\n(2) The transitional provisions in the Schedule to this Act shall have effect.\n(3) Part I of this Act together with section 17 and so much of sections 18 and 19 above\nas relates to that Part shall not come into operation until 4th January 1983; and Part II\nof this Act together with so much of sections 18 and 19 above as relates to that Part\nshall not come into operation until such day as may be appointed by an order made\nby the Secretary of State.\n(4) The power to make an order under subsection (3) above shall be exercisable by\nstatutory instrument.\n(5) No provision of this Act applies to a contract made before the provision comes into\noperation.\n(6) This Act except Part IA, which extends only to Scotlandextends to Northern\nIreland and Parts I and II do not extend to Scotland.",
+    "pages": [
+      24,
+      25
+    ],
+    "page_notes": [
+      "Textual Amendments",
+      "F67",
+      "Words in s. 20(6) inserted (3.1.1995) by 1994 c. 35, ss. 6, 8(2), Sch. 1 para. 4 (with s. 8(3))",
+      "F68",
+      "Words in s. 20(6) substituted (3.1.1995) by 1994 c. 35, ss. 6, 8(2), Sch. 1 para.4 (with s. 8(3))",
+      "Modifications etc. (not altering text)",
+      "C3",
+      "Power of appointment conferred by s. 20(3) fully exercised: 4.7.1983 appointed by S.I. 1982/1770,",
+      "art. 2"
+    ],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null
+  },
+  {
+    "node_id": "uk:SGSA:SCHEDULE",
+    "act": "Supply of Goods and Services Act 1982",
+    "act_short": "SGSA",
+    "year": 1982,
+    "jurisdiction": "uk",
+    "level": "central",
+    "status": "in_force",
+    "kind": "schedule",
+    "section_id": "SCHEDULE",
+    "title": "SCHEDULE",
+    "text": "Section 20.\nTRANSITIONAL PROVISIONS\n(1) If section 4 of this Act comes into operation before the day appointed for the purposes\nof section 14(7) of and paragraph 5 of Schedule 1 to the 1979 Act, then until that day,\nsection 4 of this act shall have effect with the modifications set out in sub-paragraphs\n(2) to (4) below.\n(2) For subsection (4) substitute:—\n“(4) Subsection (5) below applies where, under a [F2relevant contract for the\ntransfer of goods], the transferor transfers the property in goods in the\ncourse of a business and the transferee, expressly or by implication, makes\nknown to the transferor any particular purpose for which the goods are being\nacquired.”\n(3) In subsection (6) omit “or credit-broker”.\n(4) After subsection (9) insert:—\n“(10) In the application of subsections (4) to (6) above to a [F2relevant contract\nfor the transfer of goods] under which the consideration or part of the\nconsideration for the transfer is a sum payable by instalments any reference\nto the transferor includes a reference to the person by whom any antecedent\nnegotiations are conducted.\n(11) Section 58(3) and (5) of the Hire-Purchase Act 1965 (meaning of\nantecedent negotiations and related expressions) apply, with the appropriate\nmodifications, in relation to sub-section (10) above as in relation to that Act.”\n(1) If section 9 of this Act comes into operation before paragraph 35 of Schedule 4 to\nthe 1974 Act (which, among other things, amends section 10(3) of the 1973 Act so\nas to make it refer to credit-brokers), then, until the paragraph comes into operation,\nsection 9 of this Act shall have effect with the modifications set out in sub-paragraphs\n(2) to (4) below.\n(2) For subsection (4) substitute:—\n“(4) Subsection (5) below applies where, under a [F13relevant contract for the hire\nof goods], the bailor bails goods in the course of a business and the bailee,\nexpressly or by implication, makes known to the bailor or the person by\nwhom any antecedent negotiations are conducted any particular purpose for\nwhich the goods are being bailed.”\n(3) In subsection (6), for “credit-broker” substitute “person by whom the antecedent\nnegotiations are conducted”.\n(4) After subsection (9) insert:—\n“(10) Section 58(3) and (5) of the Hire-Purchase Act 1965 (meaning of\nantecedent negotiations and related expressions) apply, with the appropriate\nmodifications, in relation to sub-sections (4) to (6) above as in relation to\nthat Act.”",
+    "pages": [
+      26,
+      28
+    ],
+    "page_notes": [],
+    "source_file": "uk-supply-of-goods.pdf",
+    "domain": null,
+    "oversized": false
+  }
+]
